@@ -1,8 +1,10 @@
 # XAPOCALYSE
+Survive, Build, Thrive in a Decentralized World
+
 ## Game Overview
 - **Title**: **XApocalypse**
 - **Genre**: Single-player Survival
-- **Platform**: Web-based, built on Starknet (Layer 2) with Dojo backend
+- **Platform**: Web-based, built on Starknet with Dojo backend
 - **Target Audience**: Crypto-savvy gamers, survival game enthusiasts
 
 ## Game Concept
